@@ -6,7 +6,7 @@
 
 // Si cambias algún archivo de la app, sube este número (v2, v3...)
 // para que el móvil descargue la versión nueva.
-const VERSION = "santuarios-v1";
+const VERSION = "santuarios-v2";
 
 const ARCHIVOS = [
   "./",
